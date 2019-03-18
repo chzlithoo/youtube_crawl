@@ -1,0 +1,4 @@
+comments/
+*.csv
+.idea
+.DS_Store

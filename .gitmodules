@@ -1,0 +1,3 @@
+[submodule "youtube-comment-downloader"]
+	path = youtube-comment-downloader
+	url = https://github.com/egbertbouman/youtube-comment-downloader.git
